@@ -1,10 +1,10 @@
 {
   "product": "DATVIP TOOLS",
-  "latestVersion": "1.0.14",
-  "downloadUrl": "https://github.com/datnguyenvip/datvip-tools-releases/releases/latest/download/DATVIP_TOOLS_v1.0.14_14_BUTTONS_4PRO_BBMOC_UPDATE.exe",
+  "latestVersion": "1.0.15",
+  "downloadUrl": "https://github.com/datnguyenvip/datvip-tools-releases/releases/latest/download/DATVIP_TOOLS_v1.0.15_FULL_BBMOC_TEMPLATE.exe",
   "releaseNotes": [
-    "Tich hop thong bao khi co phien ban moi.",
-    "Them lenh DTVUPDATE va DTVVERSION.",
-    "Giu nguyen DATVIPTOOLS, 4 lenh PRO va BBMOC."
+    "Bo cai mot file: da kem san DWG mau BBMOC va huong dan.",
+    "Mau duoc cai vao Documents > DATVIP TOOLS > Mau BBMOC.",
+    "Giu nguyen 14 nut, 4 lenh PRO, BBMOC va thong bao cap nhat."
   ]
 }
