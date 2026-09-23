@@ -1,10 +1,10 @@
 {
   "product": "DATVIP TOOLS",
-  "latestVersion": "1.0.15",
-  "downloadUrl": "https://github.com/datnguyenvip/datvip-tools-releases/releases/latest/download/DATVIP_TOOLS_v1.0.15_FULL_BBMOC_TEMPLATE.exe",
+  "latestVersion": "1.0.16",
+  "downloadUrl": "https://github.com/datnguyenvip/datvip-tools-releases/releases/latest/download/DATVIP_TOOLS_v1.0.16_FULL_BBMOC_TEMPLATE.exe",
   "releaseNotes": [
-    "Bo cai mot file: da kem san DWG mau BBMOC va huong dan.",
-    "Mau duoc cai vao Documents > DATVIP TOOLS > Mau BBMOC.",
-    "Giu nguyen 14 nut, 4 lenh PRO, BBMOC va thong bao cap nhat."
+    "Sua cua so thong bao cap nhat bi an sau AutoCAD.",
+    "DTVUPDATE luon hien ket qua va ghi nhat ky ro rang.",
+    "Giu nguyen bo cai mot file kem DWG mau BBMOC."
   ]
 }
