@@ -1,10 +1,11 @@
 {
   "product": "DATVIP TOOLS",
-  "latestVersion": "1.0.16",
-  "downloadUrl": "https://github.com/datnguyenvip/datvip-tools-releases/releases/latest/download/DATVIP_TOOLS_v1.0.16_FULL_BBMOC_TEMPLATE.exe",
+  "latestVersion": "1.0.20",
+  "downloadUrl": "https://github.com/datnguyenvip/datvip-tools-releases/releases/latest/download/DATVIP_TOOLS_v1.0.20_FULL_MULTI_FLYOUT_BBMOC.exe",
   "releaseNotes": [
-    "Sua cua so thong bao cap nhat bi an sau AutoCAD.",
-    "DTVUPDATE luon hien ket qua va ghi nhat ky ro rang.",
-    "Giu nguyen bo cai mot file kem DWG mau BBMOC."
+    "Them menu xo va icon cho MDXD, TOADO, XUATTD, RAIDIEM, ANHTD va BBMOC.",
+    "BBMOC chi noi chuoi toa do dau tien khep kin; cac diem le khong bi noi sai.",
+    "Mo rong vung FIT de chu va kich thuoc canh khong bi mat.",
+    "Bo cai mot file kem mau DWG BBMOC moi nhat."
   ]
 }
